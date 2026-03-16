@@ -10,7 +10,7 @@
 - 🌱 I'm currently learning **Django, System Design, and Machine Learning.**
 - 👯 I'm looking to collaborate on **Open-source projects related to web development, AI/ML, and developer tools.**
 - 💬 Ask me about **React, Node.js, REST APIs, and full-stack web development.**
-- 📫 How to reach me **kunwarnischal3@gmail.com**
+- 📫 How to reach me **kunwarnischal3@gmail.com | nischalk171@gmail.com**
 - ⚡ Fun fact **Sometimes I start coding and I don’t know where it’s going — I just hope I find it along the way.**
 
 <h3 align="left">Connect with me:</h3>
