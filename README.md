@@ -12,6 +12,7 @@
 - 💬 Ask me about **React, Node.js, REST APIs, and full-stack web development.**
 - 📫 How to reach me **kunwarnischal3@gmail.com | nischalk171@gmail.com**
 - ⚡ Fun fact **Sometimes I start coding and I don’t know where it’s going — I just hope I find it along the way.**
+- 🧑‍🏫 Experience **Full-Stack Developer Intern @Fusemachines Dec 2025 — Mar 2026**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
