@@ -13,7 +13,7 @@
 - 📫 How to reach me **kunwarnischal3@gmail.com | nischalk171@gmail.com**
 - ⚡ Fun fact **Sometimes I start coding and I don’t know where it’s going — I just hope I find it along the way.**
 - 🧑‍🏫 Experience:
-      **Junior Backend Developer @Online Notes Nepal Apr 2026 — Present**
+      **Junior Backend Developer @Online Notes Nepal Apr 2026 — Present** <br/>
       **Full-Stack Developer Intern @Fusemachines Dec 2025 — Mar 2026**
 
 <h3 align="left">Connect with me:</h3>
